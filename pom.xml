@@ -9,6 +9,16 @@
 
 
 
+<repositories>
+	<repository>
+		<id>prime-repo</id>
+		<name>Prime Repo</name>
+		<url>http://repository.primefaces.org</url>
+	</repository>
+</repositories>
+
+
+
 
 
 <!-- **********Jersey 2 Configuration************************8 -->
@@ -99,6 +109,12 @@
     <artifactId>primefaces</artifactId>
     <version>6.0</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/org.primefaces.themes/bootstrap -->
+
+
+
+
 
 <!-- ********************END JSF PRIMEFACES***************************************** -->
 
@@ -400,8 +416,6 @@
 
 
 	</dependencies>
-
-
 
 
 

@@ -122,7 +122,7 @@
 		<param-name>javax.faces.FACELETS_REFRESH_PERIOD</param-name>
 		<param-value>10</param-value>
 	</context-param>
-
+	
 	<session-config>
 		<session-timeout>120</session-timeout>
 	</session-config>
